@@ -6,7 +6,7 @@
 <p>
   Release Date: 26.02.24
 </p>
-<hr size = "0">
+<hr size = "3">
 <p>
   © 2023 Julian Leon Baroi. All rights reserved.
 </p>
