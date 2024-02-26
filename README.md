@@ -6,7 +6,7 @@
 <p>
   Release Date: 26.02.24
 </p>
-<hr>
+<hr align = "center" size = "1">
 <p>
   © 2023 Julian Leon Baroi. All rights reserved.
 </p>
