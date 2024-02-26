@@ -6,6 +6,7 @@
 <p>
   Release Date: 26.02.24
 </p>
+<hr>
 <p>
   © 2023 Julian Leon Baroi. All rights reserved.
 </p>
