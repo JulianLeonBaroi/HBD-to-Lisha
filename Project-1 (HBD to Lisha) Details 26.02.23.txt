@@ -1,0 +1,18 @@
+Project-1
+
+Name                : HBD to Lisha
+Version             : 1.0.0
+Filetype            : .exe
+Programming Language: C
+Programming Software: Code::Blocks
+
+Developed By        : Julian Leon Baroi
+Development Time    : 25.02.23 - 26.02.23 (2 Days)
+Edited On           : 20.02.24 & 21.02.24
+Release Date        : 26.02.24
+
+[N.B.: At first, it was planned to show to my elder sister on 27.02.23 at 12:00 AM (later it was showed on 03.03.23 at 10:59 PM). She was the first person who saw
+and ran my program.]
+
+
+© 2023 Julian Leon Baroi. All rights reserved.
