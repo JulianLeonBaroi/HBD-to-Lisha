@@ -12,5 +12,5 @@
 </p>
 <br>
 <p>
-  © 2024 Julian Leon Baroi. All rights reserved.
+  © 2023 Julian Leon Baroi. All rights reserved.
 </p>
