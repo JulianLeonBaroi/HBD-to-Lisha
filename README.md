@@ -1,7 +1,7 @@
 # HBD to Lisha
 <p>
   <h2> About </h2>
-  This is a C program. I created this program in 2023 to give this to my elder sister as her birthday gift. It was my first personal project. It is special for me. Though I published it 
+  I created this program in 2023 to give this to my elder sister as her birthday gift. It was my first personal project. It is special for me. Though I published it 
   this year because I joined GitHub this year.
 </p>
 <p>
